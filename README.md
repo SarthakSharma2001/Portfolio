@@ -1,9 +1,4 @@
 # portfolio
 
 
-# click [Hosted on netlify](https://sarthakportfolio.netlify.app/)
-
-# Portfolio
-# Portfolio
-# Portfolio
-# Portfolio
+# click [Hosted on netlify](https://sarthak-portfolio.netlify.app/)
